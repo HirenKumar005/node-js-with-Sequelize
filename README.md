@@ -23,13 +23,22 @@ step 5:- open the postman and open the imported collection file and execute the 
 3.=> functionality of project
  
  user can register them self
+ 
  after register user can login them self
+ 
  logged user user rights use all functionality of project
+ 
  logged user view their profile
+ 
  logged user update their profile
+ 
  logged user chenge their password
+ 
  logged user create the address book (1 or more)
+ 
  logged user view the adreess books
+ 
  logged user update the address book 
+ 
  logged user delete the addresss book
  
