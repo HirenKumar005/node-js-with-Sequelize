@@ -15,5 +15,5 @@ require('./app/middleware/db');
 app.use(passport.initialize());
 app.use(passport.session());
 
-app.listen(555);
+module.exports=app.listen(555);
 console.log('port 555 is listing');
